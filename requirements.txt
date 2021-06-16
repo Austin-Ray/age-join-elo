@@ -1,0 +1,5 @@
+# Dev requirements
+black
+
+# Production requirements
+requests>=2,<3
